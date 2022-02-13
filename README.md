@@ -28,6 +28,4 @@
 
 </details>
 
-</details>
-
 [linkedin]: www.linkedin.com/in/dtperera
