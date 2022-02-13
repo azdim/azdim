@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Junior Cloud engineer and self proclaimed chef.
+
+- 👨‍💻 I currently work at Kubrick Group as a Cloud Enginner
+- 🌱 I’m working on watering my plants using a raspberry Pi.
+- 🥅 2022 Goals: Have a thorough understanding of all basic tools in the cloud space
+- 👨‍🏫 Education: MSci Physics from UCL. 
+
+
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Terraform" width="26px" src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio-576x324.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />
+<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="padding-right:10px;" />
 <br />
 
 ---
