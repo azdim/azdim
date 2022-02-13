@@ -16,6 +16,10 @@
 <img align="left" alt="Consul" width="26px" src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Openstack" width="26px" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
+
 
 <br />
 
