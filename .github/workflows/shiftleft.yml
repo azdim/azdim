@@ -16,8 +16,6 @@ jobs:
           pip install -r requirements.txt 
           pytest -v --junitxml=ci_test.xml
       - name: Publish Unit Test Results
-        working-directory: ci
         uses: EnricoMi/publish-unit-test-result-action@v1
-        if: always()
         with:
-          files: ci_test.xml
+          files: ./ci/ci_test.xml
