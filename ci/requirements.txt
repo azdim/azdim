@@ -1,5 +1,0 @@
-safety
-pylint==2.7.2
-pytest==6.2.2
-pymarkdownlnt==0.8.0
-yamllint==1.26.1
