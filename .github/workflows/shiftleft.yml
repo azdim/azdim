@@ -1,0 +1,21 @@
+---
+name: Run shift-left testing
+
+on:
+
+  push:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+      - name: Run tests
+        working-directory: ci
+        run : |
+          pip install -r requirements.txt 
+          pytest -v --junitxml=ci_test.xml
+      - name: Publish Unit Test Results
+        uses: EnricoMi/publish-unit-test-result-action@v1
+        with:
+          files: ./ci/ci_test.xml
