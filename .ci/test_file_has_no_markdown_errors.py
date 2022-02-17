@@ -14,4 +14,4 @@ def test_file_has_no_markdown_errors(filepath):
     proc = subprocess.Popen("pymarkdown scan "+ filepath,
                             stdout=subprocess.PIPE, shell=True)
     (out, _err) = proc.communicate()
-    assert len(out) <= 1200
+    assert len(out) <= 1958

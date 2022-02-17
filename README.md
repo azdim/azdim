@@ -1,14 +1,13 @@
-### Hi there 👋, I'm Dim
+# Hi there 👋, I'm Dim
 
-## I'm a Junior Cloud engineer and self proclaimed chef.
+## I'm a Junior Cloud engineer and self proclaimed chef
 
 - 👨‍💻 I currently work at Kubrick Group as a Cloud Enginner
 - 🌱 I’m working on watering my plants using a raspberry Pi.
 - 🥅 2022 Goals: Have a thorough understanding of all basic tools in the cloud space
-- 👨‍🏫 Education: MSci Physics from UCL. 
+- 👨‍🏫 Education: MSci Physics from UCL.
 
-
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />
@@ -19,7 +18,6 @@
 <img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
-
 
 <br />
 
