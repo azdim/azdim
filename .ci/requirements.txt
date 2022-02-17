@@ -1,0 +1,2 @@
+pytest==7.0.1
+pymarkdownlnt==0.9.5
