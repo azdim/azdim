@@ -13,9 +13,5 @@ jobs:
       - name: Run tests
         working-directory: .ci
         run : |
-          pip install -r requirements.txt 
-          pytest -v --junitxml=ci_test.xml
-      - name: Publish Unit Test Results
-        uses: EnricoMi/publish-unit-test-result-action@v1
-        with:
-          files: ./.ci/ci_test.xml
+          pip install pre-commit
+          pre-commit run --all-files
