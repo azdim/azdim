@@ -1,3 +1,5 @@
+[![Run shift-left testing](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml/badge.svg)](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml)
+
 # Hi there 👋, I'm Dim
 
 ## I'm a Junior Cloud engineer and self proclaimed chef
