@@ -32,4 +32,4 @@
 
 </details>
 
-[linkedin]: www.linkedin.com/in/dtperera
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="dtperera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/dtperera?trk=profile-badge">Dimuthu Perera</a></div>
