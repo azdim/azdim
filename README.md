@@ -30,8 +30,6 @@
 
   <img align="left" alt="azdim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azdim&theme=onedark&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</details>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="dtperera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/dtperera?trk=profile-badge">Dimuthu Perera</a></div>
-
-</details>
