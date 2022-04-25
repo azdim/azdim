@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Have a thorough understanding of all basic tools in the cloud space
 - 👨‍🏫 Education: MSci Physics from UCL.
 
-<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -32,4 +32,3 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=azdim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </details>
-[linkedin]: www.linkedin.com/in/dtperera
