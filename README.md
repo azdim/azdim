@@ -1,5 +1,7 @@
 [![Run shift-left testing](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml/badge.svg)](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml)
 
+# Hello there 🥸
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
 
 ## I'm a Junior Cloud engineer and self proclaimed chef
@@ -25,7 +27,7 @@
 <br />
 
 ---
-<details>	
+<details>
   <summary><b>⚡ Github Stats</b></summary>
   <img align="left" alt="azdim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azdim&theme=onedark&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
