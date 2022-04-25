@@ -32,3 +32,8 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=azdim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </details>
+
+📊 **What I have been upto:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
