@@ -1,6 +1,6 @@
 [![Run shift-left testing](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml/badge.svg)](https://github.com/azdim/azdim/actions/workflows/shiftleft.yml)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
 
 ## I'm a Junior Cloud engineer and self proclaimed chef
 
