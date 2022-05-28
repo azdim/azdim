@@ -17,13 +17,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Packer" width="26px" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Consul" width="26px" src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Openstack" width="26px" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
-
 <br />
 
 ---
