@@ -6,7 +6,7 @@
 
 ## I'm a Junior Cloud engineer and self proclaimed chef
 
-- 👨‍💻 I currently work at Kubrick Group as a Cloud Enginner
+- 👨‍💻 I currently work at LSEG as a Junior DevOps engineer.
 - 🌱 I’m working on watering my plants using a raspberry Pi.
 - 🥅 2022 Goals: Have a thorough understanding of all basic tools in the cloud space
 - 👨‍🏫 Education: MSci Physics from UCL.
