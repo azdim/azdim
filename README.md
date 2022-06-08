@@ -39,10 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML        27 mins         ███████████░░░░░░░░░░░░░░   44.24 %
-Jinja2      22 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
-Terraform   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Other       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
