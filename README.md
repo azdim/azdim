@@ -39,7 +39,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform   1 min           █████████████████████▒░░░   85.10 %
+YAML        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Other       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
