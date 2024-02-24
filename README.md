@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
 
-## I'm a Junior Cloud engineer and self proclaimed chef
+## DevOps Engineer at SigTech
 
-- 👨‍💻 I currently work at LSEG as a Junior DevOps engineer.
+- 👨‍💻 I am DevOps Engineer working within the FinTech space.
 - 🌱 I’m working on watering my plants using a raspberry Pi.
-- 🥅 2022 Goals: Have a thorough understanding of all basic tools in the cloud space
+- 🥅 2024 Goals: Create some Golang projects
 - 👨‍🏫 Education: MSci Physics from UCL.
 
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
