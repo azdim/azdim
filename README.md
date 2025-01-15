@@ -11,7 +11,6 @@
 - 🥅 2025 Goals: Create a Golang project as well as an LLM based project.
 - 👨‍🏫 Education: MSci Physics from UCL.
 
-
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
 ### Languages and Tools
 
