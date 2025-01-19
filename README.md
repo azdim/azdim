@@ -14,7 +14,6 @@
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
 ### Languages and Tools
 
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="padding-right:10px;" />
