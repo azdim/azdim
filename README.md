@@ -6,6 +6,7 @@
 
 ## Lead DevOps Engineer at SigTech
 
+
 - 👨‍💻 I am a Lead DevOps Engineer working within the FinTech space.
 - 🌱 I’m working on watering my plants using a raspberry Pi.
 - 🥅 2025 Goals: Create a Golang project as well as an LLM based project.
