@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
 
+
 ## Lead DevOps Engineer at SigTech
 
 - 👨‍💻 I am a Lead DevOps Engineer working within the FinTech space.
