@@ -6,7 +6,6 @@
 
 ## Platform Engineer at Brevan Howard
 
-
 - 👨‍💻 I am a Platform Engineer working within the FinTech space.
 - 🌱 I’m working on watering my plants using a raspberry Pi.
 - 🥅 2026 Goals: Create a Golang project as well as an LLM based project.
